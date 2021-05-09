@@ -62,11 +62,12 @@ body {
     align-content: center;
     border: 2px black solid;
     text-align: center;
-    padding: 30px;
+    padding: 28px;
     width: 250px;
     border-radius: 10px;
     background-color: rgb(139, 34, 34);
     cursor: pointer;
+    font-size: 18px;
 }
 
 .add:hover {
